@@ -1,0 +1,13 @@
+.Topbar{
+    width:100%;
+    border:1px solid #ccc;
+    padding: 8px;
+    box-shadow: 2px 2px 4px #ccc;
+    text-align: center;
+
+}
+.Menu{
+   margin-left:80px;
+   color:rgb(56, 50, 50);
+   font-weight: 700;
+}

@@ -1,0 +1,31 @@
+.Datadiv{
+    margin:20%;
+}
+
+table,th,td{
+    border:border-collapse; 
+   
+    
+}
+
+table{
+    background-color: #34495E;
+    
+}
+th{
+    color:#B5BD77;
+    padding:10px;
+    text-align: center;
+}
+td{
+  color:  #DFE6E8;
+  padding:10px;
+  text-align: center;
+}
+
+.fa-edit{
+    font-size: 25px;
+}
+.fa-trash{
+    font-size: 25px;   
+}

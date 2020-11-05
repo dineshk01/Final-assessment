@@ -1,0 +1,65 @@
+Body{
+    background-color: #619475;
+    }
+  
+    .Title{
+  
+      text-align: center;
+      color:white;
+     
+   
+     }
+  
+   .Form{
+    margin-top: 50px;
+      margin: auto;
+     
+      width:430px;
+      height:600px;
+      background-color:#88AB9A;
+    }
+  
+  .Title{
+  
+     text-align: center;
+     color:white;
+    
+  
+    }
+  
+  
+  
+  .Heading{
+  margin:5px;
+  margin-left:95px;
+  color: #B9D1C7;
+  }
+  
+  .Inputdata{
+  display: block;
+  width:200px;
+  padding: 8px;
+  margin: auto;
+  outline: none;
+  }
+  
+  .Btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    width:200px;
+    color: #D4D9D5;
+    background-color: #33423B;
+    border-radius: none;
+    outline: none;
+  }
+  
+  .Wrapper{
+    margin:10px;
+    height:450px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  

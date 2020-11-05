@@ -1,0 +1,73 @@
+.Form{
+
+    margin: auto;
+   
+    width:400px;
+    height:570px;
+    background-color:#88AB9A;
+  }
+
+.Title{
+
+   text-align: center;
+   color:white;
+  
+
+  }
+
+
+
+.Heading{
+margin:5px;
+margin-left:80px;
+color: #B9D1C7;
+margin-top: 23px;
+}
+
+.Inputdata{
+display: block;
+width:200px;
+padding: 8px;
+margin: auto;
+outline: none;
+margin-bottom: 20px;;
+}
+
+.Btn{
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  padding: 10px;
+  width:200px;
+  color: #D4D9D5;
+  background-color: #33423B;
+  border-radius: none;
+  outline: none;
+  margin-bottom: 20px;
+}
+
+.Wrapper{
+  margin:10px;
+
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.Accountwrap{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.SignupBtn{
+  
+margin-left:10px;
+
+  padding: 10px;
+  width:100px;
+  color: #D4D9D5;
+  background-color: #33423B;
+  border-radius: none;
+  outline: none;
+}
